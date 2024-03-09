@@ -1,0 +1,30 @@
+{
+  "name": "dable-button",
+  "version": "1.0.0",
+  "description": "button component for dable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dable-text" : "1.0.0",
+    "dable-event-click": "1.0.0",
+    "dable-effect-synchei" : "1.0.0",
+    "dable-effect": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dableburdo/dable-button.git"
+  },
+  "keywords": [
+    "front-end", "button", "ui button"
+  ],
+  "author": "dable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dableburdo/dable-button/issues"
+  },
+  "homepage": "https://github.com/dableburdo/dable-button#readme",
+  "devDependencies": {
+  }
+}
