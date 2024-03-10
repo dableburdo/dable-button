@@ -1,6 +1,6 @@
 {
   "name": "dable-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "button component for dable",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,8 @@
     "dable-text" : "1.0.0",
     "dable-event-click": "1.0.0",
     "dable-effect-synchei" : "1.0.0",
-    "dable-effect": "1.0.0"
+    "dable-effect": "1.0.0",
+    "firan-logging":"^1.0.0"
   },
   "repository": {
     "type": "git",
